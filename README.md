@@ -6,11 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 # String
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
