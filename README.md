@@ -9,6 +9,7 @@
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -29,11 +30,13 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
 # Breadth-First Search
 |  |
 | ------- |
