@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
@@ -13,6 +14,7 @@
 # String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
@@ -40,6 +42,7 @@
 # Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 # Prefix Sum
 |  |
@@ -58,3 +61,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
