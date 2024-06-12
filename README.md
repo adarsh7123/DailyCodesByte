@@ -26,6 +26,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
@@ -36,6 +37,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
@@ -65,3 +67,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
