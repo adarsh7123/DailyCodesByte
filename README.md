@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
@@ -80,3 +81,19 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarsh7123/DailyCodesByte/tree/master/0017-letter-combinations-of-a-phone-number) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
