@@ -30,6 +30,7 @@
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adarsh7123/DailyCodesByte/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -100,6 +101,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adarsh7123/DailyCodesByte/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 # Binary Tree
 |  |
