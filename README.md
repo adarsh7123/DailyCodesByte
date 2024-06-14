@@ -36,6 +36,7 @@
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 # Tree
 |  |
 | ------- |
@@ -107,3 +109,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
+# Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
