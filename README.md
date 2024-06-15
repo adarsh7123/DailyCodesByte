@@ -35,6 +35,7 @@
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 # Tree
 |  |
@@ -126,4 +129,9 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
