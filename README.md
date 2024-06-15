@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -34,6 +35,7 @@
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
@@ -120,3 +123,7 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
