@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarsh7123/DailyCodesByte/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
@@ -137,3 +138,15 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
+# Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
