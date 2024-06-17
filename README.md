@@ -143,6 +143,7 @@
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adarsh7123/DailyCodesByte/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
