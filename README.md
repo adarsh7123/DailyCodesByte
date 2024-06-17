@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/adarsh7123/DailyCodesByte/tree/master/0070-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 # Queue
 |  |
@@ -145,6 +146,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/adarsh7123/DailyCodesByte/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/adarsh7123/DailyCodesByte/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
@@ -154,3 +156,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarsh7123/DailyCodesByte/tree/master/0070-climbing-stairs) |
