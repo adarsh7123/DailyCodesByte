@@ -27,6 +27,7 @@
 | [0330-patching-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -41,6 +42,7 @@
 | [0330-patching-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/adarsh7123/DailyCodesByte/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
@@ -56,6 +58,7 @@
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
@@ -93,6 +96,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 # Backtracking
 |  |
 | ------- |
@@ -114,6 +118,7 @@
 | [0035-search-insert-position](https://github.com/adarsh7123/DailyCodesByte/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 # Binary Tree
 |  |
 | ------- |
