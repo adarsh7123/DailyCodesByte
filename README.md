@@ -34,6 +34,7 @@
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarsh7123/DailyCodesByte/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
