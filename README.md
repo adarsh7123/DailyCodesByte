@@ -52,6 +52,7 @@
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/adarsh7123/DailyCodesByte/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -64,6 +65,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/adarsh7123/DailyCodesByte/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -120,6 +122,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/adarsh7123/DailyCodesByte/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
