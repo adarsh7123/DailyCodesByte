@@ -12,6 +12,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/adarsh7123/DailyCodesByte/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adarsh7123/DailyCodesByte/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
@@ -163,6 +165,7 @@
 | [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/adarsh7123/DailyCodesByte/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -179,3 +182,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/adarsh7123/DailyCodesByte/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
