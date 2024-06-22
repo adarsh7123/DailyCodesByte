@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarsh7123/DailyCodesByte/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/adarsh7123/DailyCodesByte/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/adarsh7123/DailyCodesByte/tree/master/0648-replace-words) |
@@ -42,6 +43,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/adarsh7123/DailyCodesByte/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0330-patching-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7123/DailyCodesByte/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/adarsh7123/DailyCodesByte/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
@@ -84,6 +87,7 @@
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/1217-relative-sort-array) |
@@ -116,6 +120,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 # Tree
