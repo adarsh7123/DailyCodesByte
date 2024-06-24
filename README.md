@@ -43,6 +43,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/adarsh7123/DailyCodesByte/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh7123/DailyCodesByte/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
@@ -149,6 +150,7 @@
 | [0053-maximum-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/adarsh7123/DailyCodesByte/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/adarsh7123/DailyCodesByte/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh7123/DailyCodesByte/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 # Queue
 |  |
