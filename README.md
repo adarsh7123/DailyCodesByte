@@ -55,6 +55,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/adarsh7123/DailyCodesByte/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/adarsh7123/DailyCodesByte/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/adarsh7123/DailyCodesByte/tree/master/1138-grumpy-bookstore-owner) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adarsh7123/DailyCodesByte/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adarsh7123/DailyCodesByte/tree/master/0067-add-binary) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Simulation
 |  |
 | ------- |
@@ -189,5 +193,6 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/adarsh7123/DailyCodesByte/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
