@@ -32,6 +32,7 @@
 | [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/adarsh7123/DailyCodesByte/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adarsh7123/DailyCodesByte/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/adarsh7123/DailyCodesByte/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -128,10 +129,12 @@
 | [0169-majority-element](https://github.com/adarsh7123/DailyCodesByte/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0954-maximum-sum-circular-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -139,11 +142,13 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/adarsh7123/DailyCodesByte/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adarsh7123/DailyCodesByte/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -198,3 +203,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarsh7123/DailyCodesByte/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/adarsh7123/DailyCodesByte/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adarsh7123/DailyCodesByte/tree/master/1370-count-number-of-nice-subarrays) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/1285-balance-a-binary-search-tree) |
