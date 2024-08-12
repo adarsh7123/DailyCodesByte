@@ -211,3 +211,18 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/adarsh7123/DailyCodesByte/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics End-->
