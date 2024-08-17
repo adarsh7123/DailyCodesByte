@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,15 +252,18 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -270,4 +274,8 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
