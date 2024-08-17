@@ -231,6 +231,7 @@
 | [0002-add-two-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh7123/DailyCodesByte/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adarsh7123/DailyCodesByte/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh7123/DailyCodesByte/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adarsh7123/DailyCodesByte/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -250,6 +251,7 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -258,5 +260,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adarsh7123/DailyCodesByte/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
