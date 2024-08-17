@@ -247,4 +247,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
