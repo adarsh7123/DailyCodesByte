@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adarsh7123/DailyCodesByte/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adarsh7123/DailyCodesByte/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
