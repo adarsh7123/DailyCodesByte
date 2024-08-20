@@ -251,10 +251,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adarsh7123/DailyCodesByte/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/adarsh7123/DailyCodesByte/tree/master/0060-permutation-sequence) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adarsh7123/DailyCodesByte/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/adarsh7123/DailyCodesByte/tree/master/0060-permutation-sequence) |
 ## Tree
 |  |
 | ------- |
