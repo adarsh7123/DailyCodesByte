@@ -9,7 +9,7 @@ public:
             input.pop();
         }
         // Insert the desired element in the stack input
-        input.push(data);
+        input.push(x);
         // Pop out elements from the stack output and push them into the stack
         // input
         while (!output.empty()) {
