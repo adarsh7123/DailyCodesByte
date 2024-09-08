@@ -375,4 +375,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarsh7123/DailyCodesByte/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adarsh7123/DailyCodesByte/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/adarsh7123/DailyCodesByte/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
