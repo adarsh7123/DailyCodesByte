@@ -222,6 +222,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adarsh7123/DailyCodesByte/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/adarsh7123/DailyCodesByte/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh7123/DailyCodesByte/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh7123/DailyCodesByte/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/adarsh7123/DailyCodesByte/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adarsh7123/DailyCodesByte/tree/master/0496-next-greater-element-i) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/adarsh7123/DailyCodesByte/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/adarsh7123/DailyCodesByte/tree/master/0152-maximum-product-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
