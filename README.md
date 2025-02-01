@@ -227,6 +227,7 @@
 | [0455-assign-cookies](https://github.com/adarsh7123/DailyCodesByte/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adarsh7123/DailyCodesByte/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh7123/DailyCodesByte/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3429-special-array-i](https://github.com/adarsh7123/DailyCodesByte/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
